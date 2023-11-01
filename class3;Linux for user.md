@@ -126,5 +126,9 @@
     - **Piping(|)**: On pipe, will help you run  commands by using the output of the 1st command as the input for the next one.
 
 2. **awk**: To filter texts that are separated in colon.
-  *Eg: cat hope.txt|awk'{print $1}* 
+  *Eg: **cat abugdia.txt | awk -F ":" '{print $1}'  …. this will display the first column only.**
 3. **sed**: to find and replace text.
+Eg: **cat hope.txt | sed 's/find/replace'**
+    To replace all word we want use the command
+   **cat hope.txt | sed 's/find/replace/g'**
+   
