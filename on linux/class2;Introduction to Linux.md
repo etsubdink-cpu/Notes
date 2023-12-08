@@ -42,7 +42,7 @@ Users communicate with the kernel by **shell**.
    - ZSH
    - FISH
 *THEY differ in coloring, piping, command compilation, some kind of feature.
-- To identify your shell "echo$SHELL"
+- To identify your shell "echo$SHELL" for git.
 
 ## operating system?
 ---

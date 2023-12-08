@@ -1,4 +1,4 @@
-#### The TOPIC we will cover in this class
+##### The TOPIC we will cover in this class
 - Linux File Hierarchy
 - VIM
 - NANO

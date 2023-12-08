@@ -49,18 +49,21 @@ hacking refers to exploiting system vulnerabilities and compromising security co
 
 ## *elements of Information security*
 
-![[Capture.png]]
+✅ CIA triad:-
+1. confidentiality 
+2. Integrity
+3. Availability 
 ### skills we need to be a hacker 
 - programming 
-- programming 
+- Networking
 - Linux
 - system admin 
 ### phase of hacking 
-1. reconnaissance
+1. reconnaissance: information gathering
 2. scanning
 3. gaining access
 4. maintain access
-5. cleaning tracks or logs
+5. cleaning tracks or logs: to be anonyms 
 #### pentesthing testing 
 - is a method of evaluating the security of an information system by simulating an attack
 ##### Types of pentesting
